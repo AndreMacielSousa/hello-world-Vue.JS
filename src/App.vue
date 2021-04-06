@@ -6,8 +6,8 @@
   </div>
 </template>
 
-
 <script>
+
 import HelloWorld from "./components/HelloWorld.vue";
 
 import Dog from "./components/Dog.vue";
